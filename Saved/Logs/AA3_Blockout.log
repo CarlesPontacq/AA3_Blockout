@@ -10029,3 +10029,917 @@ Sampler Limit: 32
 [2026.05.08-09.18.01:564][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5035.371094
 [2026.05.08-09.18.01:713][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.08-09.18.01:713][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5035.507812, Update Interval: 337.488342
+[2026.05.08-09.24.25:851][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5419.678223
+[2026.05.08-09.24.26:852][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.24.26:852][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5420.344727, Update Interval: 348.117920
+[2026.05.08-09.30.56:606][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5810.432129
+[2026.05.08-09.30.57:606][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.30.57:606][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5811.099121, Update Interval: 324.681549
+[2026.05.08-09.37.20:363][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6194.192383
+[2026.05.08-09.37.21:364][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.37.21:364][144]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6194.859375, Update Interval: 318.941010
+[2026.05.08-09.37.29:797][169]LogDerivedDataCache: C:/Users/CarlesPontacqMontano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.08-09.40.57:378][791]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.40.57:378][791]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.40.57:378][791]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.41.09:579][828]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.1.208:62901, Sequence=0
+[2026.05.08-09.41.09:579][828]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.1.208:62901, Sequence=0
+[2026.05.08-09.41.23:112][868]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.1.210:51854, Sequence=0
+[2026.05.08-09.41.53:121][958]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.43.26:839][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6560.662109
+[2026.05.08-09.43.27:844][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.43.27:844][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6561.322266, Update Interval: 348.059326
+[2026.05.08-09.46.01:850][694]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.46.01:850][694]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.2.32:51962, Sequence=0
+[2026.05.08-09.49.57:874][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6951.694336
+[2026.05.08-09.49.58:875][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.49.58:875][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6952.360840, Update Interval: 322.833954
+[2026.05.08-09.55.52:595][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7306.419434
+[2026.05.08-09.55.53:595][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-09.55.53:595][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7307.086426, Update Interval: 323.154388
+[2026.05.08-10.02.01:330][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7675.164062
+[2026.05.08-10.02.02:331][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.02.02:331][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7675.830566, Update Interval: 326.692108
+[2026.05.08-10.08.11:723][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8045.561523
+[2026.05.08-10.08.12:724][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.08.12:724][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8046.228027, Update Interval: 315.862915
+[2026.05.08-10.14.12:458][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8406.260742
+[2026.05.08-10.14.13:458][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.14.13:458][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8406.927734, Update Interval: 357.835632
+[2026.05.08-10.20.59:197][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8812.943359
+[2026.05.08-10.21.00:196][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.21.00:196][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8813.610352, Update Interval: 340.562744
+[2026.05.08-10.22.02:904][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.05.08-10.22.02:904][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.05.08-10.22.02:905][299]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_16
+[2026.05.08-10.22.02:907][299]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_16
+[2026.05.08-10.22.06:848][621]Cmd: TRANSACTION UNDO
+[2026.05.08-10.22.06:848][621]LogEditorTransaction: Undo Create Actor
+[2026.05.08-10.22.22:056][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_9ACFE274.Box_9ACFE274
+[2026.05.08-10.22.22:057][ 45]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_9ACFE274.Box_9ACFE274 as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_17
+[2026.05.08-10.22.22:059][ 45]LogStaticMesh: Display: Building static mesh Box_9ACFE274 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.22.22:060][ 45]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_9ACFE274.Box_9ACFE274
+[2026.05.08-10.22.23:062][119]Cmd: DELETE
+[2026.05.08-10.22.23:062][119]Cmd: ACTOR DELETE
+[2026.05.08-10.22.23:067][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.08-10.22.23:079][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.08-10.22.23:081][119]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.05.08-10.22.44:170][287]Cmd: TRANSACTION UNDO
+[2026.05.08-10.22.44:170][287]LogEditorTransaction: Undo Transform
+[2026.05.08-10.22.52:987][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.22.53:027][187]LogStaticMesh: Display: Building static mesh Box_78E79BF0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.22.53:029][187]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_78E79BF0.Box_78E79BF0
+[2026.05.08-10.22.53:048][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.08-10.22.53:058][187]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.22.53:059][187]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapAB71ACC04605217EE99F97BA4CB5073D.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.22.53:067][187]LogFileHelpers: Saving map 'BlockoutMap' took 0.042
+[2026.05.08-10.22.53:090][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.536 ms (total: 8.41 sec)
+[2026.05.08-10.22.53:144][187]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.22.53:144][187]LogContentValidation: Enabled validators:
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.22.53:144][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.22.53:146][187]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.22.56:094][449]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-10.23.14:253][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.23.14:348][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.08-10.23.14:357][ 65]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.23.14:358][ 65]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap2C9BB7E548DCB7C018C92BA3ACC79FCC.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.23.14:366][ 65]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-10.23.14:379][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.797 ms (total: 8.53 sec)
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: Enabled validators:
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.23.14:446][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.23.14:446][ 65]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.23.21:738][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.23.21:827][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.08-10.23.21:836][753]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.23.21:836][753]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap40B2511A4DDA257561FEC3832E9D0DDD.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.23.21:847][753]LogFileHelpers: Saving map 'BlockoutMap' took 0.038
+[2026.05.08-10.23.21:860][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.465 ms (total: 8.65 sec)
+[2026.05.08-10.23.21:925][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.23.21:925][753]LogContentValidation: Enabled validators:
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.23.21:925][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.23.21:925][753]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.23.46:475][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.23.46:475][194]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.23.46:475][194]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.23.46:476][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038 as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_18
+[2026.05.08-10.24.17:146][156]Cmd: TRANSACTION UNDO
+[2026.05.08-10.24.17:147][156]LogEditorTransaction: Undo Transform
+[2026.05.08-10.24.18:526][254]Cmd: TRANSACTION UNDO
+[2026.05.08-10.24.18:526][254]LogEditorTransaction: Undo Selection
+[2026.05.08-10.24.19:334][335]Cmd: TRANSACTION UNDO
+[2026.05.08-10.24.19:334][335]LogEditorTransaction: Undo Transform
+[2026.05.08-10.24.22:294][632]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.24.22:296][632]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: ================================================
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Total job queries 11,907, among them cache hits 78 (0.66%), DDC hits 6 (0.05%), Duplicates 2,703 (22.70%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Tracking 9,120 distinct input hashes that result in 8,576 distinct outputs (94.04%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: RAM used: 6.39 MiB of 1.60 GiB budget. Usage: 0.39%
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Shaders Compiled: 9,114
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Jobs assigned 9,114, completed 9,114 (100%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Average time worker was idle: 142.23 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 23.98 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Job execution time: average 520.92 s, max 1073.88 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Job life time (pending + execution): average 521.21 s, max 1074.02
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Shader code size: average 14.179 KiB, min 1.16 KiB, max 330.166 KiB
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1224.08 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Jobs were issued in 4,757 batches (244 local, 4,513 distributed), average 1.92 jobs/batch (1.35 jobs/local batch. 1.95 jobs/distributed batch)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Average processing rate: 7.45 jobs/sec
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Total thread time: 6,757.317 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Total thread preprocess time: 156.955 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Percentage time preprocessing: 2.32%
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Effective parallelization: 5.52 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 25.75 sec, max 82.89 sec, min 1.67 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 16.45 sec, max 16.45 sec, min 16.45 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 11.45 sec, max 13.81 sec, min 5.92 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 9.26 sec, max 9.26 sec, min 9.26 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 5.07 sec, max 5.07 sec, min 5.07 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.46% of total time (compiled  454 times, average 2.00 sec, max 4.28 sec, min 1.18 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 10.29% of total time (compiled   27 times, average 25.75 sec, max 82.89 sec, min 1.67 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.92% of total time (compiled  260 times, average 2.06 sec, max 4.77 sec, min 0.00 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.67% of total time (compiled  480 times, average 0.94 sec, max 17.17 sec, min 0.33 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.28% of total time (compiled   68 times, average 4.25 sec, max 12.19 sec, min 1.66 sec)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Materials Translated:    183
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.05.08-10.24.28:065][925]LogShaderCompilers: Display: ================================================
+[2026.05.08-10.24.40:024][448]Cmd: DELETE
+[2026.05.08-10.24.40:024][448]Cmd: ACTOR DELETE
+[2026.05.08-10.24.42:436][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_013D6B1F.Box_013D6B1F
+[2026.05.08-10.24.42:437][696]LogStaticMesh: Display: Building static mesh Box_013D6B1F (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.24.42:438][696]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_013D6B1F.Box_013D6B1F
+[2026.05.08-10.24.42:438][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_013D6B1F.Box_013D6B1F as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_19
+[2026.05.08-10.24.43:627][781]Cmd: DELETE
+[2026.05.08-10.24.43:627][781]Cmd: ACTOR DELETE
+[2026.05.08-10.24.43:629][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.08-10.24.43:642][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.05.08-10.24.43:643][781]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.05.08-10.24.44:289][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.24.44:361][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.08-10.24.44:372][839]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.24.44:372][839]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapA756C47048CAD7D4DF0BFB8F451194B2.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.24.44:381][839]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.24.44:390][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.327 ms (total: 8.75 sec)
+[2026.05.08-10.24.44:424][839]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.24.44:424][839]LogContentValidation: Enabled validators:
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.24.44:424][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.24.44:424][839]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.25.12:683][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.25.12:749][576]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.25.12:751][576]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.25.12:769][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.08-10.25.12:778][576]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.25.12:778][576]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapC3B0EE1B4E904A63389287842425BE7D.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.25.12:793][576]LogFileHelpers: Saving map 'BlockoutMap' took 0.045
+[2026.05.08-10.25.12:814][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.221 ms (total: 8.89 sec)
+[2026.05.08-10.25.12:876][576]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.25.12:876][576]LogContentValidation: Enabled validators:
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.25.12:876][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.25.12:876][576]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.25.20:577][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.25.20:643][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.05.08-10.25.20:654][332]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.25.20:654][332]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap4A08202E478B667345D9C4824E1C69BE.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.25.20:662][332]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-10.25.20:669][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.537 ms (total: 8.98 sec)
+[2026.05.08-10.25.20:729][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.25.20:729][332]LogContentValidation: Enabled validators:
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.25.20:729][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.25.20:729][332]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.27.20:235][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9193.683594
+[2026.05.08-10.27.20:379][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.27.20:379][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9193.820312, Update Interval: 322.108826
+[2026.05.08-10.32.25:180][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_DBEB9A97.Box_DBEB9A97
+[2026.05.08-10.32.25:180][ 45]LogStaticMesh: Display: Building static mesh Box_DBEB9A97 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.32.25:181][ 45]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_DBEB9A97.Box_DBEB9A97 as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_20
+[2026.05.08-10.32.25:182][ 45]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_DBEB9A97.Box_DBEB9A97
+[2026.05.08-10.32.29:345][492]Cmd: TRANSACTION UNDO
+[2026.05.08-10.32.29:345][492]LogEditorTransaction: Undo Activate Tool
+[2026.05.08-10.33.00:211][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.33.00:282][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.08-10.33.00:290][643]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.33.00:291][643]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap0C66DD1E4E1053AC7E1BE3925F0ED3CA.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.33.00:300][643]LogFileHelpers: Saving map 'BlockoutMap' took 0.038
+[2026.05.08-10.33.00:311][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.227 ms (total: 9.08 sec)
+[2026.05.08-10.33.00:377][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.33.00:377][643]LogContentValidation: Enabled validators:
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.33.00:377][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.33.00:377][643]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.33.23:706][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9556.670898
+[2026.05.08-10.33.23:856][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.33.23:856][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9556.809570, Update Interval: 358.035217
+[2026.05.08-10.33.36:316][288]LogStaticMesh: Display: Building static mesh Box_DBEB9A97 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.33.36:316][288]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_DBEB9A97.Box_DBEB9A97
+[2026.05.08-10.33.41:282][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.33.41:368][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.08-10.33.41:377][740]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.33.41:377][740]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap1687B06F4222616DF8E066AF8EFB05D7.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.33.41:386][740]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.33.41:401][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.358 ms (total: 9.20 sec)
+[2026.05.08-10.33.41:460][740]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.33.41:460][740]LogContentValidation: Enabled validators:
+[2026.05.08-10.33.41:460][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.33.41:461][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.33.41:461][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.33.41:461][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.33.41:461][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.33.41:461][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.33.41:461][740]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.34.01:678][773]Cmd: DUPLICATE
+[2026.05.08-10.34.01:678][773]Cmd: ACTOR DUPLICATE
+[2026.05.08-10.34.08:830][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.34.08:911][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.08-10.34.08:920][376]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.34.08:921][376]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap0225FFD54279FC4FFABD4298D2BA9A80.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.34.08:929][376]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-10.34.08:948][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.395 ms (total: 9.32 sec)
+[2026.05.08-10.34.09:008][376]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.34.09:008][376]LogContentValidation: Enabled validators:
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.34.09:008][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.34.09:008][376]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.34.22:829][688]Cmd: TRANSACTION UNDO
+[2026.05.08-10.34.22:829][688]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.08-10.34.23:339][695]Cmd: TRANSACTION UNDO
+[2026.05.08-10.34.23:339][695]LogEditorTransaction: Undo Move Elements
+[2026.05.08-10.34.37:762][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.34.37:843][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.08-10.34.37:852][993]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.34.37:852][993]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapF2D7CC3F4223EB604F47DE92482992C4.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.34.37:862][993]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-10.34.37:877][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.193 ms (total: 9.43 sec)
+[2026.05.08-10.34.37:926][993]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.34.37:926][993]LogContentValidation: Enabled validators:
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.34.37:926][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.34.37:926][993]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.35.28:622][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.35.28:710][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.05.08-10.35.28:719][944]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.35.28:720][944]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap951AC77D4FFC0D4096876B8CD1C196E3.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.35.28:728][944]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-10.35.28:738][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.487 ms (total: 9.55 sec)
+[2026.05.08-10.35.28:794][944]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.35.28:794][944]LogContentValidation: Enabled validators:
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.35.28:794][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.35.28:794][944]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.35.36:652][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.35.36:749][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.08-10.35.36:758][720]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.35.36:758][720]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap7F12A6DE4E1AFFEA5266ACAC50C6D56D.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.35.36:768][720]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-10.35.36:779][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.633 ms (total: 9.67 sec)
+[2026.05.08-10.35.36:845][720]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.35.36:845][720]LogContentValidation: Enabled validators:
+[2026.05.08-10.35.36:845][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.35.36:845][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.35.36:845][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.35.36:846][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.35.36:846][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.35.36:846][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.35.36:846][720]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.35.48:396][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.35.48:449][876]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.35.48:451][876]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.35.48:471][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.08-10.35.48:478][876]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.35.48:479][876]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap8CD958B341C0DF846B4641AF09CC0172.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.35.48:491][876]LogFileHelpers: Saving map 'BlockoutMap' took 0.044
+[2026.05.08-10.35.48:509][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.197 ms (total: 9.79 sec)
+[2026.05.08-10.35.48:559][876]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.35.48:559][876]LogContentValidation: Enabled validators:
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.35.48:559][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.35.48:560][876]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.35.58:052][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.35.58:113][923]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.35.58:114][923]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.35.58:136][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.08-10.35.58:145][923]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.35.58:145][923]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap403053DE4E245860433DD8907B6A919B.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.35.58:160][923]LogFileHelpers: Saving map 'BlockoutMap' took 0.050
+[2026.05.08-10.35.58:178][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.592 ms (total: 9.91 sec)
+[2026.05.08-10.35.58:245][923]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.35.58:245][923]LogContentValidation: Enabled validators:
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.35.58:245][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.35.58:245][923]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.36.27:466][886]Cmd: DUPLICATE
+[2026.05.08-10.36.27:466][886]Cmd: ACTOR DUPLICATE
+[2026.05.08-10.36.39:677][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.36.39:759][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.05.08-10.36.39:770][  5]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.36.39:770][  5]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap33AF7BF2423BE967A5187EAD1F60CCD5.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.36.39:780][  5]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.36.39:788][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.224 ms (total: 10.0 sec)
+[2026.05.08-10.36.39:825][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.36.39:825][  5]LogContentValidation: Enabled validators:
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.36.39:825][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.36.39:825][  5]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.36.53:754][369]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.36.53:756][369]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.36.54:301][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.36.54:377][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.08-10.36.54:386][416]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.36.54:386][416]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapD10F5FF942ED571E3619D8BE0642B17F.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.36.54:394][416]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-10.36.54:416][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.531 ms (total: 10.1 sec)
+[2026.05.08-10.36.54:475][416]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.36.54:475][416]LogContentValidation: Enabled validators:
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.36.54:475][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.36.54:476][416]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.37.29:798][702]LogDerivedDataCache: C:/Users/CarlesPontacqMontano/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.08-10.37.32:442][947]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.40.1.157:61788, Sequence=0
+[2026.05.08-10.37.59:973][555]LogStaticMesh: Display: Building static mesh Box_2C83D038 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.37.59:973][555]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_2C83D038.Box_2C83D038
+[2026.05.08-10.38.00:574][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.38.00:647][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.08-10.38.00:657][613]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.38.00:658][613]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap6F597DE543659DF101FFF9A0F3A8B07E.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.38.00:668][613]LogFileHelpers: Saving map 'BlockoutMap' took 0.042
+[2026.05.08-10.38.00:687][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.257 ms (total: 10.2 sec)
+[2026.05.08-10.38.00:728][613]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.38.00:728][613]LogContentValidation: Enabled validators:
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.38.00:728][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.38.00:728][613]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.39.49:814][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.39.49:897][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.08-10.39.49:905][845]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.39.49:905][845]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap25BAF4934357AE540D1DC69851F738A8.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.39.49:917][845]LogFileHelpers: Saving map 'BlockoutMap' took 0.039
+[2026.05.08-10.39.49:935][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.371 ms (total: 10.3 sec)
+[2026.05.08-10.39.49:992][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.39.49:992][845]LogContentValidation: Enabled validators:
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.39.49:992][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.39.49:992][845]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.40.11:214][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9964.188477
+[2026.05.08-10.40.11:375][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.40.11:375][985]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9964.340820, Update Interval: 300.227051
+[2026.05.08-10.40.11:981][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.40.12:059][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.08-10.40.12:068][ 45]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.40.12:069][ 45]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap0B915DD24CF8AA7D1CF592A0A4486FD1.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.40.12:079][ 45]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.40.12:087][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.573 ms (total: 10.4 sec)
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: Enabled validators:
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.40.12:146][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.40.12:146][ 45]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.41.57:679][433]Cmd: DUPLICATE
+[2026.05.08-10.41.57:680][433]Cmd: ACTOR DUPLICATE
+[2026.05.08-10.42.03:925][ 17]LogWindows: LaunchURL https://docs.unrealengine.com/5.5/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.05.08-10.42.35:668][786]Cmd: DELETE
+[2026.05.08-10.42.35:668][786]Cmd: ACTOR DELETE
+[2026.05.08-10.42.35:670][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.08-10.42.35:681][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.05.08-10.42.35:683][786]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.05.08-10.42.36:771][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.42.36:862][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.08-10.42.36:873][884]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.42.36:873][884]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap56E02DFD468B13AE5C7148BBDA8B771A.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.42.36:882][884]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-10.42.36:892][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.520 ms (total: 10.6 sec)
+[2026.05.08-10.42.36:943][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.42.36:943][884]LogContentValidation: Enabled validators:
+[2026.05.08-10.42.36:943][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.42.36:943][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.42.36:943][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.42.36:943][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.42.36:945][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.42.36:945][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.42.36:945][884]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.42.45:458][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.05.08-10.42.45:458][800]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.05.08-10.42.45:461][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_24
+[2026.05.08-10.42.45:461][800]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_24
+[2026.05.08-10.42.58:618][ 79]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.05.08-10.42.58:618][ 79]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.05.08-10.42.58:619][ 79]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_25
+[2026.05.08-10.42.58:619][ 79]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_25
+[2026.05.08-10.42.58:753][ 81]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_SkySphere)
+[2026.05.08-10.44.35:636][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.44.35:700][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.08-10.44.35:708][328]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.44.35:710][328]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapA5CC77574D30B46842B49E812FF1FE27.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.44.35:718][328]LogFileHelpers: Saving map 'BlockoutMap' took 0.039
+[2026.05.08-10.44.35:731][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.382 ms (total: 10.7 sec)
+[2026.05.08-10.44.35:792][328]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.44.35:792][328]LogContentValidation: Enabled validators:
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.44.35:792][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.44.35:792][328]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.45.04:851][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.45.04:927][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.08-10.45.04:936][777]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.45.04:937][777]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap5397029D4960B8E0DFBF68BBF359B286.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.45.04:945][777]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.45.04:956][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.202 ms (total: 10.8 sec)
+[2026.05.08-10.45.04:990][777]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.45.04:990][777]LogContentValidation: Enabled validators:
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.45.04:990][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.45.04:990][777]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.45.13:690][618]Cmd: TRANSACTION UNDO
+[2026.05.08-10.45.13:690][618]LogEditorTransaction: Undo Transform
+[2026.05.08-10.45.14:239][626]Cmd: TRANSACTION UNDO
+[2026.05.08-10.45.14:239][626]LogEditorTransaction: Undo Place Mesh
+[2026.05.08-10.45.34:734][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_A2D80B28.Box_A2D80B28
+[2026.05.08-10.45.34:735][550]LogStaticMesh: Display: Building static mesh Box_A2D80B28 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.45.34:736][550]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_A2D80B28.Box_A2D80B28 as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_26
+[2026.05.08-10.45.34:736][550]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_A2D80B28.Box_A2D80B28
+[2026.05.08-10.45.49:238][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10302.389648
+[2026.05.08-10.45.49:374][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.45.49:374][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10302.513672, Update Interval: 317.578674
+[2026.05.08-10.45.51:847][231]Cmd: TRANSACTION UNDO
+[2026.05.08-10.45.51:847][231]LogEditorTransaction: Undo Selection
+[2026.05.08-10.46.05:766][597]LogStaticMesh: Display: Building static mesh Box_A2D80B28 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-10.46.05:767][597]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_A2D80B28.Box_A2D80B28
+[2026.05.08-10.46.08:111][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.46.08:194][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.08-10.46.08:204][825]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.46.08:204][825]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapBB5063E8421CC18C2E0860922727859F.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.46.08:213][825]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-10.46.08:231][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.996 ms (total: 10.9 sec)
+[2026.05.08-10.46.08:292][825]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.46.08:292][825]LogContentValidation: Enabled validators:
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.46.08:292][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.46.08:292][825]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.46.11:833][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.46.11:911][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.05.08-10.46.11:921][130]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.46.11:921][130]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap1A43DA494FD3C1283BA87AA133A66062.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.46.11:930][130]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-10.46.11:951][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.005 ms (total: 11.0 sec)
+[2026.05.08-10.46.12:009][130]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.46.12:009][130]LogContentValidation: Enabled validators:
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.46.12:009][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.46.12:009][130]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.51.45:407][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10658.494141
+[2026.05.08-10.51.45:551][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.51.45:551][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10658.626953, Update Interval: 341.740173
+[2026.05.08-10.52.32:584][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-10.52.32:646][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.05.08-10.52.32:655][658]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-10.52.32:655][658]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap1058D849440BD74CE4EC5985CF1615A1.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-10.52.32:664][658]LogFileHelpers: Saving map 'BlockoutMap' took 0.038
+[2026.05.08-10.52.32:685][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.082 ms (total: 11.1 sec)
+[2026.05.08-10.52.32:743][658]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-10.52.32:743][658]LogContentValidation: Enabled validators:
+[2026.05.08-10.52.32:743][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-10.52.32:743][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-10.52.32:743][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-10.52.32:744][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-10.52.32:744][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-10.52.32:744][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-10.52.32:744][658]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-10.58.25:915][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11058.100586
+[2026.05.08-10.58.26:067][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-10.58.26:067][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11058.240234, Update Interval: 357.678162
+[2026.05.08-11.01.27:597][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.01.27:681][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.05.08-11.01.27:690][901]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.01.27:690][901]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapAC494D6848C8AB23E5124E9FA2C74799.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.01.27:698][901]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.01.27:719][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.531 ms (total: 11.2 sec)
+[2026.05.08-11.01.27:777][901]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.01.27:777][901]LogContentValidation: Enabled validators:
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.01.27:777][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.01.27:777][901]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.02.13:059][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.02.13:143][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.08-11.02.13:152][527]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.02.13:153][527]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap2D9D89B249652C6E7D84CB80C0FE01BE.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.02.13:161][527]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-11.02.13:173][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.889 ms (total: 11.3 sec)
+[2026.05.08-11.02.13:223][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.02.13:223][527]LogContentValidation: Enabled validators:
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.02.13:223][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.02.13:225][527]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.03.30:474][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.03.30:561][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.08-11.03.30:570][378]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.03.30:571][378]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapCAD76370449F2093BC3A1EA12BFF6CA4.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.03.30:578][378]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-11.03.30:589][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.694 ms (total: 11.4 sec)
+[2026.05.08-11.03.30:642][378]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.03.30:642][378]LogContentValidation: Enabled validators:
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.03.30:642][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.03.30:642][378]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.03.37:570][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.03.37:608][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.03.37:609][180]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.03.37:609][180]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0 as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_27
+[2026.05.08-11.03.37:609][180]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.03.37:782][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.05.08-11.03.37:791][180]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.03.37:792][180]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap7764F71C46ED95088D5D0B85AE2E6D34.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.03.37:804][180]LogFileHelpers: Saving map 'BlockoutMap' took 0.198
+[2026.05.08-11.03.37:825][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.087 ms (total: 11.7 sec)
+[2026.05.08-11.03.37:891][180]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.03.37:891][180]LogContentValidation: Enabled validators:
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.03.37:891][180]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.03.37:891][180]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.03.53:009][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.03.53:060][499]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.03.53:060][499]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.03.53:079][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.08-11.03.53:088][499]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.03.53:090][499]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap235D02904992BC8AF5AB758EF42C6482.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.03.53:103][499]LogFileHelpers: Saving map 'BlockoutMap' took 0.045
+[2026.05.08-11.03.53:113][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.228 ms (total: 11.8 sec)
+[2026.05.08-11.03.53:176][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.03.53:176][499]LogContentValidation: Enabled validators:
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.03.53:176][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.03.53:176][499]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.03.57:620][935]Cmd: DUPLICATE
+[2026.05.08-11.03.57:620][935]Cmd: ACTOR DUPLICATE
+[2026.05.08-11.03.59:292][ 96]Cmd: TRANSACTION UNDO
+[2026.05.08-11.03.59:292][ 96]LogEditorTransaction: Undo Duplicate Elements
+[2026.05.08-11.04.00:363][159]Cmd: DUPLICATE
+[2026.05.08-11.04.00:363][159]Cmd: ACTOR DUPLICATE
+[2026.05.08-11.04.23:384][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.04.23:426][421]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.04.23:427][421]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.04.23:461][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.08-11.04.23:470][421]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.04.23:470][421]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap9A7A0C324A65A4928F8263A25B9EAEA7.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.04.23:479][421]LogFileHelpers: Saving map 'BlockoutMap' took 0.055
+[2026.05.08-11.04.23:496][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.342 ms (total: 11.9 sec)
+[2026.05.08-11.04.23:542][421]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.04.23:542][421]LogContentValidation: Enabled validators:
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.04.23:542][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.04.23:542][421]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.04.33:127][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.04.33:192][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.08-11.04.33:202][382]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.04.33:202][382]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap042E2FC345F11A8E605AC58EC160F324.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.04.33:211][382]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-11.04.33:230][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.997 ms (total: 12.0 sec)
+[2026.05.08-11.04.33:289][382]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.04.33:289][382]LogContentValidation: Enabled validators:
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.04.33:289][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.04.33:289][382]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.05.04:732][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11456.479492
+[2026.05.08-11.05.04:874][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-11.05.04:874][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11456.613281, Update Interval: 305.974915
+[2026.05.08-11.05.10:124][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.05.10:177][798]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.05.10:177][798]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.05.10:196][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.08-11.05.10:208][798]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.05.10:208][798]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapA593FF89436852BEBF9765854F61CD5C.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.05.10:220][798]LogFileHelpers: Saving map 'BlockoutMap' took 0.046
+[2026.05.08-11.05.10:242][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.925 ms (total: 12.1 sec)
+[2026.05.08-11.05.10:291][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.05.10:291][798]LogContentValidation: Enabled validators:
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.05.10:291][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.05.10:291][798]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.05.21:915][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.05.21:976][885]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.05.21:977][885]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.05.21:995][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.05.08-11.05.22:006][885]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.05.22:006][885]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapA0FE532745D6834A1DB7AF87E2957703.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.05.22:018][885]LogFileHelpers: Saving map 'BlockoutMap' took 0.044
+[2026.05.08-11.05.22:037][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.541 ms (total: 12.3 sec)
+[2026.05.08-11.05.22:093][885]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.05.22:093][885]LogContentValidation: Enabled validators:
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.05.22:093][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.05.22:093][885]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.05.22:957][958]Cmd: TRANSACTION UNDO
+[2026.05.08-11.05.22:957][958]LogEditorTransaction: Undo Deform Mesh
+[2026.05.08-11.05.24:628][ 67]Cmd: DELETE
+[2026.05.08-11.05.24:628][ 67]Cmd: ACTOR DELETE
+[2026.05.08-11.05.24:630][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.08-11.05.24:638][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.05.08-11.05.24:642][ 67]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2026.05.08-11.05.25:618][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.05.25:714][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.08-11.05.25:726][154]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.05.25:727][154]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap9284E7B344D39329483B43BD3F9E943E.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.05.25:734][154]LogFileHelpers: Saving map 'BlockoutMap' took 0.038
+[2026.05.08-11.05.25:757][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.913 ms (total: 12.4 sec)
+[2026.05.08-11.05.25:792][154]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.05.25:792][154]LogContentValidation: Enabled validators:
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.05.25:792][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.05.25:792][154]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.05.52:447][828]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.05.52:447][828]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.05.54:789][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.05.54:876][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.05.08-11.05.54:885][ 28]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.05.54:885][ 28]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap44E6394644542E8CADCFC1924B06F6A6.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.05.54:894][ 28]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.05.54:916][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.638 ms (total: 12.5 sec)
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: Enabled validators:
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.05.54:974][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.05.54:974][ 28]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.06.05:914][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.06.05:993][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.05.08-11.06.06:002][963]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.06.06:002][963]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapD78B72A24707F056A518A4907C54DE83.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.06.06:010][963]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-11.06.06:026][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.703 ms (total: 12.6 sec)
+[2026.05.08-11.06.06:093][963]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.06.06:093][963]LogContentValidation: Enabled validators:
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.06.06:093][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.06.06:093][963]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.06.49:700][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.06.49:794][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.08-11.06.49:804][127]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.06.49:804][127]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapCF780338421F8974EED5AD9A1F8C9CA5.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.06.49:813][127]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.06.49:822][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.439 ms (total: 12.8 sec)
+[2026.05.08-11.06.49:877][127]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.06.49:877][127]LogContentValidation: Enabled validators:
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.06.49:877][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.06.49:877][127]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.06.58:082][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.06.58:142][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.05.08-11.06.58:151][895]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.06.58:151][895]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap198DDE784DBDE5B843892F971B5AAB1B.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.06.58:159][895]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-11.06.58:173][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.358 ms (total: 12.8 sec)
+[2026.05.08-11.06.58:209][895]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.06.58:209][895]LogContentValidation: Enabled validators:
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.06.58:209][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.06.58:209][895]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.07.26:148][682]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_6AB03F9C.Box_6AB03F9C
+[2026.05.08-11.07.26:150][682]LogStaticMesh: Display: Building static mesh Box_6AB03F9C (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.07.26:150][682]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_6AB03F9C.Box_6AB03F9C
+[2026.05.08-11.07.26:150][682]LogActorFactory: Actor Factory spawned StaticMesh /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_6AB03F9C.Box_6AB03F9C as actor: StaticMeshActor /Game/AA3/BlockoutMap.BlockoutMap:PersistentLevel.StaticMeshActor_30
+[2026.05.08-11.07.31:919][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.07.31:994][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.08-11.07.32:005][185]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.07.32:005][185]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapD3AD92CA4A0410EC0D52FE97B952AFC9.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.07.32:014][185]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.07.32:035][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.499 ms (total: 13.0 sec)
+[2026.05.08-11.07.32:090][185]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.07.32:090][185]LogContentValidation: Enabled validators:
+[2026.05.08-11.07.32:090][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.07.32:090][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.07.32:091][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.07.32:091][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.07.32:091][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.07.32:091][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.07.32:091][185]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.07.39:651][ 12]LogStaticMesh: Display: Building static mesh Box_6AB03F9C (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.07.39:652][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_6AB03F9C.Box_6AB03F9C
+[2026.05.08-11.07.40:192][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.07.40:279][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.08-11.07.40:288][ 63]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.07.40:289][ 63]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap351F4A3845D3F32027CBCD9F55F2EB87.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.07.40:298][ 63]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.07.40:306][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.480 ms (total: 13.1 sec)
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: Enabled validators:
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.07.40:358][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.07.40:358][ 63]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.08.10:702][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.08.10:790][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.05.08-11.08.10:800][707]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.08.10:800][707]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMapF3AAA691492340F609A953BDF623A726.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.08.10:808][707]LogFileHelpers: Saving map 'BlockoutMap' took 0.035
+[2026.05.08-11.08.10:826][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.219 ms (total: 13.2 sec)
+[2026.05.08-11.08.10:893][707]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.08.10:893][707]LogContentValidation: Enabled validators:
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.08.10:893][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.08.10:893][707]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.08.27:889][404]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.08.27:891][404]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.08.28:378][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.08.28:462][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.08-11.08.28:472][449]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.08.28:472][449]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap6A04CD274BEBEE90EF41E795216444C7.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.08.28:480][449]LogFileHelpers: Saving map 'BlockoutMap' took 0.037
+[2026.05.08-11.08.28:499][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.725 ms (total: 13.3 sec)
+[2026.05.08-11.08.28:540][449]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.08.28:540][449]LogContentValidation: Enabled validators:
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.08.28:540][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.08.28:540][449]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.08.42:834][911]LogStaticMesh: Display: Building static mesh Box_1A1E34E0 (Required Memory Estimate: 0.027864 MB)...
+[2026.05.08-11.08.42:836][911]LogStaticMesh: Built static mesh [0.00s] /Game/AA3/_GENERATED/CarlesPontacqMontano/Box_1A1E34E0.Box_1A1E34E0
+[2026.05.08-11.08.47:455][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.08.47:542][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.05.08-11.08.47:552][333]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.08.47:552][333]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap2B8358B140B093014A31929655077144.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.08.47:561][333]LogFileHelpers: Saving map 'BlockoutMap' took 0.036
+[2026.05.08-11.08.47:581][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.342 ms (total: 13.5 sec)
+[2026.05.08-11.08.47:640][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.08.47:640][333]LogContentValidation: Enabled validators:
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.08.47:640][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.08.47:640][333]AssetCheck: /Game/AA3/BlockoutMap Validating asset
+[2026.05.08-11.09.37:561][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-11.09.37:641][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.05.08-11.09.37:651][801]LogSavePackage: Moving output files for package: /Game/AA3/BlockoutMap
+[2026.05.08-11.09.37:651][801]LogSavePackage: Moving '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Saved/BlockoutMap906C87B74008F6C8438AAB852E8108D0.tmp' to '../../../../../../Users/CarlesPontacqMontano/Documents/Unreal Projects/AA3_Blockout/Content/AA3/BlockoutMap.umap'
+[2026.05.08-11.09.37:659][801]LogFileHelpers: Saving map 'BlockoutMap' took 0.034
+[2026.05.08-11.09.37:677][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.974 ms (total: 13.6 sec)
+[2026.05.08-11.09.37:724][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-11.09.37:724][801]LogContentValidation: Enabled validators:
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-11.09.37:724][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-11.09.37:724][801]AssetCheck: /Game/AA3/BlockoutMap Validating asset
